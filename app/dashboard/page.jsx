@@ -9,7 +9,7 @@ import {
   Skull,
   Users2,
 } from "lucide-react";
-import ComplainPage from "./complain/page";
+
 import {
   Tooltip,
   TooltipContent,
@@ -26,6 +26,7 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { UserIcon } from "lucide-react";
+import ComplainPage from "./complain/page";
 import CasePage from "./case/page";
 import CaseList from "./caseList/page";
 import Crimestat from "./crimeStat/page";
